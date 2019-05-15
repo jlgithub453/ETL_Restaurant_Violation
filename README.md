@@ -23,6 +23,6 @@ https://www.kaggle.com/chicago/chi-restaurant-inspections
 In the final database we merged both tables to consolidate the data and compare violations from different 
 restaurant locations of the same business. Then we created a visualization of our schema(see Schema_Visualization.png). 
 
-We tired to link the tables in our visualization of schema by using a foreign key but the only vairables that matched were our restaurant names that were not uniquely identifiable in each table. so we couldn't utilize a foreign key to make our visualization more appealing.
+We tried to link the tables in our visualization of schema by using a foreign key but the only vairables that matched were our restaurant names that were not uniquely identifiable in each table. so we couldn't utilize a foreign key to make our visualization more appealing.
 
 The reason we chose these datasets was pretty simple. It was the only two datasets we could find with relatable data. These data sets provide information about restaurant violations in two different cities, SF and Chicago. We were able to see which restaurants passed and failed their inspections.
